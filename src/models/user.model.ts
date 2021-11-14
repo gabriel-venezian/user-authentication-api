@@ -1,4 +1,4 @@
-type User {
+type User = {
   uuid?: string;
   userName: string;
   password?: string;
